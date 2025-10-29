@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: src/client/Main.java
+    visible: true
+    learner_created: false
+  - name: src/server/Main.java
+    visible: true
+    learner_created: false
+  - name: src/server/JSONDatabase.java
+    visible: true
+    learner_created: false
+  - name: src/server/CommandProcessor.java
+    visible: true
+    learner_created: false
+  - name: test/JsonDatabaseTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/65/stages/349/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 23 Oct 2025 13:48:42 UTC"
+record: 2

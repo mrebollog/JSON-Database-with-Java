@@ -1,0 +1,56 @@
+type: edu
+files:
+  - name: src/client/Main.java
+    visible: true
+    learner_created: false
+  - name: src/server/Main.java
+    visible: true
+    learner_created: false
+  - name: src/server/DeleteCommand.java
+    visible: true
+    learner_created: false
+  - name: src/server/ExitCommand.java
+    visible: true
+    learner_created: false
+  - name: src/server/CommandFactory.java
+    visible: true
+    learner_created: false
+  - name: src/server/CommandExecutor.java
+    visible: true
+    learner_created: false
+  - name: src/server/Server.java
+    visible: true
+    learner_created: false
+  - name: src/server/Command.java
+    visible: true
+    learner_created: false
+  - name: src/server/GetCommand.java
+    visible: true
+    learner_created: false
+  - name: src/server/SetCommand.java
+    visible: true
+    learner_created: false
+  - name: src/server/JSONDatabase.java
+    visible: true
+    learner_created: false
+  - name: src/server/Response.java
+    visible: true
+    learner_created: false
+  - name: test/JsonDatabaseTest.java
+    visible: false
+    learner_created: false
+  - name: test/JsonFinder.java
+    visible: false
+    learner_created: false
+  - name: test/JsonRequestBuilder.java
+    visible: false
+    learner_created: false
+  - name: src/server/data/db.json
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/65/stages/352/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 25 Oct 2025 16:14:19 UTC"
+record: 5
